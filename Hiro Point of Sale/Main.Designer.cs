@@ -391,10 +391,10 @@
             this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(193)))), ((int)(((byte)(192)))));
             this.button4.ImageIndex = 2;
             this.button4.ImageList = this.iconList;
-            this.button4.Location = new System.Drawing.Point(489, 17);
+            this.button4.Location = new System.Drawing.Point(477, 17);
             this.button4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(129, 49);
+            this.button4.Size = new System.Drawing.Size(141, 49);
             this.button4.TabIndex = 11;
             this.button4.Text = "Add Discount";
             this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
