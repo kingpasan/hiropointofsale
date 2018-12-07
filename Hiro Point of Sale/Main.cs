@@ -21,5 +21,10 @@ namespace Hiro_Point_of_Sale
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
